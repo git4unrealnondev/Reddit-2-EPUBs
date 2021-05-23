@@ -1,0 +1,4 @@
+ebooklib
+requests
+bs4
+praw
